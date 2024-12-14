@@ -564,6 +564,7 @@ See also *[Intercepting Web proxies](#intercepting-web-proxies)*.
 ### Penetration Testing Report Templates
 
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
+* [Pentest reports](https://pentestreports.com) - Information hub with list of public penetration test reports, companies, tools and vulnerabilities all in one place.
 * [T&VS Pentesting Report Template](https://www.testandverification.com/wp-content/uploads/template-penetration-testing-report-v03.pdf) - Pentest report template provided by Test and Verification Services, Ltd.
 * [Web Application Security Assessment Report Template](http://lucideus.com/pdf/stw.pdf) - Sample Web application security assessment reporting template provided by Lucideus.
 
